@@ -13,10 +13,11 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+-The Lending company, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). The credit loss is the amount of money lost by  the lender when the borrower refuses to pay or runs away with the money owed.
+- The company wants to understand these risky loan applicants behind loan default, i.e. the variables which are strong indicators of default.  So, the company can utilize this knowledge for its portfolio and risk assessment. 
+- Loans dataset is being used
+-Using Exploratory Data Analysis is the aim of this case study where we perform the data exploration, cleaning, visualization of either univariate, bivariate or multivariate
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
