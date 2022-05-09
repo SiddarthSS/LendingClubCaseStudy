@@ -1,5 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+>Understanding of risk analytics in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers.
+![image](https://user-images.githubusercontent.com/104872992/167491632-eaee5903-3f26-48b0-9339-faa61b400cf4.png)
+
 
 
 ## Table of Contents
